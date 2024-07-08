@@ -75,7 +75,7 @@ const FooterNav = (props) => {
           </section>
           Settings
         </section>
-        <section
+        {/* <section
           role="button"
           className="footer-support-section brand-text-mute mx-1"
           onClick={supportNavigation}
@@ -93,7 +93,7 @@ const FooterNav = (props) => {
             </svg>
           </section>
           Support
-        </section>
+        </section> */}
       </section>
     </React.Fragment>
   );
