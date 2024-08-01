@@ -18,6 +18,5 @@
 ## Technologies Used
 
 - **React JS** [User Interface, Application Logic]
-- **Bootstrap** [User Interface]
 - **jQuery AJAX** [API Requests]
 
